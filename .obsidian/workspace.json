@@ -6,6 +6,7 @@
       {
         "id": "5d59f694fe6ab88d",
         "type": "tabs",
+        "dimension": 34.6749226006192,
         "children": [
           {
             "id": "dfdb46ed8e75bfe7",
@@ -52,6 +53,7 @@
       {
         "id": "b22f1ab063fb1394",
         "type": "tabs",
+        "dimension": 65.3250773993808,
         "children": [
           {
             "id": "228fba30549cad2f",
@@ -212,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "228fba30549cad2f",
+  "active": "2253f45e97d46d95",
   "lastOpenFiles": [
     "E-books/Math/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf",
     "数学相关/ODE学习笔记.md",
