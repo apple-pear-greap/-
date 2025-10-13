@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "数学分析课堂笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "数学分析课堂笔记"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown语法手册.md",
+                "file": "数学分析课堂笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Markdown语法手册 的出链列表"
+              "title": "数学分析课堂笔记 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "概率论课堂笔记.md",
+                "file": "数学分析课堂笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "概率论课堂笔记 的大纲"
+              "title": "数学分析课堂笔记 的大纲"
             }
           },
           {
@@ -180,15 +180,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfdb46ed8e75bfe7",
+  "active": "2253f45e97d46d95",
   "lastOpenFiles": [
-    "python学习笔记.md",
-    "test.md",
-    "概率论课堂笔记.md",
+    "E-books/CS/Python教程-廖雪峰-2025-06-16.pdf",
     "Git使用指北.md",
+    "E-books/Static/专业核心课教材——统计学：以R为分析工具（加水印加密）(4) (2).pdf",
+    "E-books/Others/《英国文学选读》.pdf",
+    "E-books/Math/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf",
+    "E-books/Math/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf",
+    "E-books/Math/MIRA.pdf",
+    "E-books/Static",
+    "E-books/Others",
+    "E-books/Math",
+    "E-books/CS",
+    "概率论课堂笔记.md",
+    "test.md",
+    "python学习笔记.md",
     "Markdown语法手册.md",
     "数学分析课堂笔记.md",
-    "未命名.md.partial",
     "未命名.canvas",
     "数学分析课堂笔记or草稿.md"
   ]
