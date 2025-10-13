@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概率论课堂笔记.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "概率论课堂笔记"
+              "title": "test"
             }
           }
         ]
@@ -180,13 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2253f45e97d46d95",
+  "active": "dfdb46ed8e75bfe7",
   "lastOpenFiles": [
+    "概率论课堂笔记.md",
+    "test.md",
     "Git使用指北.md",
     "Markdown语法手册.md",
     "python学习笔记.md",
     "数学分析课堂笔记.md",
-    "概率论课堂笔记.md",
     "未命名.md.partial",
     "未命名.canvas",
     "数学分析课堂笔记or草稿.md"
