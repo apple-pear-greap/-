@@ -214,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2253f45e97d46d95",
+  "active": "228fba30549cad2f",
   "lastOpenFiles": [
     "E-books/Math/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf",
     "数学相关/ODE学习笔记.md",
