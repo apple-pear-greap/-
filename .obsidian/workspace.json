@@ -6,7 +6,6 @@
       {
         "id": "b22f1ab063fb1394",
         "type": "tabs",
-        "dimension": 44.89164086687307,
         "children": [
           {
             "id": "228fba30549cad2f",
@@ -20,25 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "数学分析课堂笔记"
-            }
-          }
-        ]
-      },
-      {
-        "id": "54cfe6ba74819c39",
-        "type": "tabs",
-        "dimension": 55.10835913312694,
-        "children": [
-          {
-            "id": "c07bbc5bd535e93e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "E-books/Math/数学分析 (下册) (戴斌祥 总主编；郭瑞芝、刘心歌、许友军 主编) (Z-Library).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "数学分析 (下册) (戴斌祥 总主编；郭瑞芝、刘心歌、许友军 主编) (Z-Library)"
             }
           }
         ]
