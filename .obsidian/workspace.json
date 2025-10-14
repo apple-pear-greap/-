@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test2.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test2"
+              "title": "readme"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test2.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "test2 的反向链接列表"
+              "title": "readme 的反向链接列表"
             }
           },
           {
@@ -178,12 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d3762250f9256e9",
+  "active": "de94cee508ce97d2",
   "lastOpenFiles": [
-    "test.md",
-    "test2.md",
-    "欢迎.md",
     "E-books/Static/专业核心课教材——统计学：以R为分析工具（加水印加密）(4) (2).pdf",
+    "test2.md",
+    "test.md",
+    "欢迎.md",
     "E-books/Others/微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library).pdf",
     "E-books/Others/《英国文学选读》.pdf",
     "E-books/Math/MIRA.pdf",
