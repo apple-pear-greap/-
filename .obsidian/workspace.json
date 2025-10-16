@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b22f1ab063fb1394",
+        "id": "fd4b79a5dff28f91",
         "type": "tabs",
         "children": [
           {
-            "id": "228fba30549cad2f",
+            "id": "58591d69db63a898",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "094d009d7f3b54c0",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown语法手册.md",
+                "file": "E-books/Others/微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Markdown语法手册 的反向链接列表"
+              "title": "微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library) 的反向链接列表"
             }
           },
           {
@@ -112,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学相关/ODE学习笔记.md",
+                "file": "E-books/Others/微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ODE学习笔记 的出链列表"
+              "title": "微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library) 的出链列表"
             }
           },
           {
@@ -149,6 +148,16 @@
               "icon": "lucide-list",
               "title": "微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library) 的大纲"
             }
+          },
+          {
+            "id": "e23e229ac9399cec",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 3
@@ -170,27 +179,31 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "228fba30549cad2f",
+  "active": "58591d69db63a898",
   "lastOpenFiles": [
-    "数学相关/数值分析笔记.md",
-    "数学相关/未命名.md",
-    "数学相关/newton_pol.py",
-    "数学相关/数学分析课堂笔记.md",
-    "E-books/Math/数学分析 (下册) (戴斌祥 总主编；郭瑞芝、刘心歌、许友军 主编) (Z-Library).pdf",
-    "E-books/Math/数值分析 (韩旭里) (Z-Library).pdf",
-    "E-books/CS/Python教程-廖雪峰-2025-06-16.pdf",
-    "readme.md",
-    "E-books/Math/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf",
-    "数学相关/ODE学习笔记.md",
-    "数学相关/概率论课堂笔记.md",
-    "计算机科学相关/Git使用指北.md",
-    "计算机科学相关/python学习笔记.md",
-    "计算机科学相关",
-    "E-books/Math/MIRA.pdf",
-    "数学相关",
-    "E-books/Math/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf",
-    "计算机科学相关/Markdown语法手册.md",
+    "计算机科学相关/Linux学习笔记.md",
     "E-books/Others/微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library).pdf",
+    "数学相关/数值分析笔记/数值分析笔记.md",
+    "数学相关/实分析笔记/测度.md",
+    "数学相关/实分析笔记/实分析笔记（可能会咕咕）.md",
+    "数学相关/实分析笔记",
+    "数学相关/常微分方程笔记/ODE学习笔记.md",
+    "数学相关/数值分析笔记",
+    "数学相关/概率论笔记/概率论课堂笔记.md",
+    "数学相关/常微分方程笔记",
+    "数学相关/数学分析笔记/数学分析笔记-目录.md",
+    "数学相关/概率论笔记",
+    "数学相关/数学分析笔记/方向导数和梯度.md",
+    "数学相关/数学分析笔记/全微分不变性.md",
+    "计算机科学相关/obsidian食用指北.md",
+    "数学相关/数学分析笔记",
+    "E-books/CS/Python教程-廖雪峰-2025-06-16.pdf",
+    "计算机科学相关/Git使用指北.md",
+    "数学相关/实分析笔记/MIRA.pdf",
+    "数学相关/数值分析笔记/数值分析 (韩旭里) (Z-Library).pdf",
+    "数学相关/数学分析笔记/数学分析 (下册) (戴斌祥 总主编；郭瑞芝、刘心歌、许友军 主编) (Z-Library).pdf",
+    "readme.md",
+    "计算机科学相关/python学习笔记.md",
     "test.md",
     "未命名.canvas",
     "数学分析课堂笔记or草稿.md"
