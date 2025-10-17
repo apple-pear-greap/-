@@ -180,12 +180,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +198,7 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "d0300ba51f4e4a78",
+  "active": "e23e229ac9399cec",
   "lastOpenFiles": [
     "数学相关/概率论笔记/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf",
     "数学相关/概率论笔记/概率论课堂笔记.md",
