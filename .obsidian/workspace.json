@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fd4b79a5dff28f91",
+        "id": "5c35336534a3a158",
         "type": "tabs",
         "children": [
           {
-            "id": "58591d69db63a898",
+            "id": "1362d855a8409e15",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "E-books/CS/Python教程-廖雪峰-2025-06-16.pdf"
+                "file": "数学相关/概率论笔记/概率论课堂笔记.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Python教程-廖雪峰-2025-06-16"
+              "icon": "lucide-file",
+              "title": "概率论课堂笔记"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "094d009d7f3b54c0",
@@ -180,17 +181,21 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "58591d69db63a898",
+  "active": "1362d855a8409e15",
   "lastOpenFiles": [
+    "数学相关/实分析笔记/实分析笔记（可能会咕咕）.md",
+    "数学相关/实分析笔记/测度.md",
+    "数学相关/实分析笔记/MIRA.pdf",
+    "数学相关/概率论笔记/概率论课堂笔记.md",
+    "数学相关/概率论笔记/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf",
+    "E-books/Others/《英国文学选读》.pdf",
+    "E-books/CS/Python教程-廖雪峰-2025-06-16.pdf",
     "E-books/Others/微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library).pdf",
     "计算机科学相关/Linux学习笔记.md",
     "数学相关/数值分析笔记/数值分析笔记.md",
-    "数学相关/实分析笔记/测度.md",
-    "数学相关/实分析笔记/实分析笔记（可能会咕咕）.md",
     "数学相关/实分析笔记",
     "数学相关/常微分方程笔记/ODE学习笔记.md",
     "数学相关/数值分析笔记",
-    "数学相关/概率论笔记/概率论课堂笔记.md",
     "数学相关/常微分方程笔记",
     "数学相关/数学分析笔记/数学分析笔记-目录.md",
     "数学相关/概率论笔记",
@@ -198,11 +203,7 @@
     "数学相关/数学分析笔记/全微分不变性.md",
     "计算机科学相关/obsidian食用指北.md",
     "数学相关/数学分析笔记",
-    "E-books/CS/Python教程-廖雪峰-2025-06-16.pdf",
     "计算机科学相关/Git使用指北.md",
-    "数学相关/实分析笔记/MIRA.pdf",
-    "数学相关/数值分析笔记/数值分析 (韩旭里) (Z-Library).pdf",
-    "数学相关/数学分析笔记/数学分析 (下册) (戴斌祥 总主编；郭瑞芝、刘心歌、许友军 主编) (Z-Library).pdf",
     "readme.md",
     "计算机科学相关/python学习笔记.md",
     "test.md",
