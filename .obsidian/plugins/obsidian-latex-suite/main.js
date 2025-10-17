@@ -15601,8 +15601,3 @@ var LatexSuitePlugin = class extends import_obsidian8.Plugin {
     }
   }
 };
-<<<<<<< HEAD
-
-/* nosourcemap */
-=======
->>>>>>> 5883f9d590b05ac2cc067a95e25667076d6e3cc7
