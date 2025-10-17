@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "7d299597815ee3ec",
+    "id": "c84a99928126c3a4",
     "type": "split",
     "children": [
       {
-        "id": "0c1f8e70bf7d40b1",
+        "id": "5c35336534a3a158",
         "type": "tabs",
         "children": [
           {
-            "id": "de94cee508ce97d2",
+            "id": "1362d855a8409e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "数学相关/概率论笔记/概率论课堂笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "概率论课堂笔记"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4ed5a0bbf94e305a",
+    "id": "3ce25be4d8a60cf4",
     "type": "split",
     "children": [
       {
-        "id": "cd70f350a2a1f1b1",
+        "id": "562eecdeea9cd755",
         "type": "tabs",
         "children": [
           {
-            "id": "0d3762250f9256e9",
+            "id": "7db93d2cda4a2b09",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "7e0b724a2336e418",
+            "id": "59a934155c483a59",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "d0ff3e0c3f737604",
+            "id": "bf9a713984003e7b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "6aa3388089d45b82",
+    "id": "094d009d7f3b54c0",
     "type": "split",
     "children": [
       {
-        "id": "f4504b91557dd9f8",
+        "id": "76af83d9ae9b43fb",
         "type": "tabs",
         "children": [
           {
-            "id": "73c19f7e7ba2ba3f",
+            "id": "f179827d80e79dbe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "E-books/Others/微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "readme 的反向链接列表"
+              "title": "微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library) 的反向链接列表"
             }
           },
           {
-            "id": "6a77b9306bfd3951",
+            "id": "39376f85e9654747",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "E-books/Others/微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library) 的出链列表"
             }
           },
           {
-            "id": "d52568e5b3652a3a",
+            "id": "7be022ba0e0f4faa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,21 +137,22 @@
             }
           },
           {
-            "id": "52b83ae83b2b4467",
+            "id": "97ad1269edbf733f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "E-books/Others/微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library).pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library) 的大纲"
             }
           },
           {
-            "id": "5281ef211a231a9f",
+            "id": "e23e229ac9399cec",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -160,24 +162,26 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false
+      "bases:创建新数据库": false
     }
   },
+<<<<<<< HEAD
   "active": "5281ef211a231a9f",
   "lastOpenFiles": [
     "readme.md",
@@ -186,19 +190,40 @@
     "test.md",
     "欢迎.md",
     "E-books/Others/微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library).pdf",
+=======
+  "active": "1362d855a8409e15",
+  "lastOpenFiles": [
+    "数学相关/实分析笔记/实分析笔记（可能会咕咕）.md",
+    "数学相关/实分析笔记/测度.md",
+    "数学相关/实分析笔记/MIRA.pdf",
+    "数学相关/概率论笔记/概率论课堂笔记.md",
+    "数学相关/概率论笔记/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf",
+>>>>>>> 60b3c4c12bae00e352f7ae94670aba390178d4e7
     "E-books/Others/《英国文学选读》.pdf",
-    "E-books/Math/MIRA.pdf",
-    "E-books/Math/数学分析 (下册) (戴斌祥 总主编；郭瑞芝、刘心歌、许友军 主编) (Z-Library).pdf",
-    "E-books/Math/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf",
-    "E-books/Math/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf",
     "E-books/CS/Python教程-廖雪峰-2025-06-16.pdf",
-    "数学相关/ODE学习笔记.md",
-    "数学相关/数学分析课堂笔记.md",
-    "数学相关/概率论课堂笔记.md",
-    "计算机科学相关/python学习笔记.md",
-    "计算机科学相关/Markdown语法手册.md",
+    "E-books/Others/微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library).pdf",
+    "计算机科学相关/Linux学习笔记.md",
+    "数学相关/数值分析笔记/数值分析笔记.md",
+    "数学相关/实分析笔记",
+    "数学相关/常微分方程笔记/ODE学习笔记.md",
+    "数学相关/数值分析笔记",
+    "数学相关/常微分方程笔记",
+    "数学相关/数学分析笔记/数学分析笔记-目录.md",
+    "数学相关/概率论笔记",
+    "数学相关/数学分析笔记/方向导数和梯度.md",
+    "数学相关/数学分析笔记/全微分不变性.md",
+    "计算机科学相关/obsidian食用指北.md",
+    "数学相关/数学分析笔记",
     "计算机科学相关/Git使用指北.md",
+<<<<<<< HEAD
     "计算机科学相关",
     "数学相关"
+=======
+    "readme.md",
+    "计算机科学相关/python学习笔记.md",
+    "test.md",
+    "未命名.canvas",
+    "数学分析课堂笔记or草稿.md"
+>>>>>>> 60b3c4c12bae00e352f7ae94670aba390178d4e7
   ]
 }
