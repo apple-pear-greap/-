@@ -11,6 +11,24 @@
             "id": "1362d855a8409e15",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数学相关/概率论笔记/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "概率论基础 第三版 (李贤平) (Z-Library) (1)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fc29640b7a7c132a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0300ba51f4e4a78",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "数学相关/概率论笔记/概率论课堂笔记.md",
@@ -142,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-books/Others/微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library).pdf",
+                "file": "数学相关/概率论笔记/概率论课堂笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library) 的大纲"
+              "title": "概率论课堂笔记 的大纲"
             }
           },
           {
@@ -181,13 +199,13 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "1362d855a8409e15",
+  "active": "d0300ba51f4e4a78",
   "lastOpenFiles": [
+    "数学相关/概率论笔记/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf",
+    "数学相关/概率论笔记/概率论课堂笔记.md",
+    "数学相关/实分析笔记/MIRA.pdf",
     "数学相关/实分析笔记/实分析笔记（可能会咕咕）.md",
     "数学相关/实分析笔记/测度.md",
-    "数学相关/实分析笔记/MIRA.pdf",
-    "数学相关/概率论笔记/概率论课堂笔记.md",
-    "数学相关/概率论笔记/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf",
     "E-books/Others/《英国文学选读》.pdf",
     "E-books/CS/Python教程-廖雪峰-2025-06-16.pdf",
     "E-books/Others/微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library).pdf",
