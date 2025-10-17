@@ -178,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de94cee508ce97d2",
+  "active": "5281ef211a231a9f",
   "lastOpenFiles": [
+    "readme.md",
     "E-books/Static/专业核心课教材——统计学：以R为分析工具（加水印加密）(4) (2).pdf",
     "test2.md",
     "test.md",
@@ -198,7 +199,6 @@
     "计算机科学相关/Markdown语法手册.md",
     "计算机科学相关/Git使用指北.md",
     "计算机科学相关",
-    "数学相关",
-    "readme.md"
+    "数学相关"
   ]
 }
