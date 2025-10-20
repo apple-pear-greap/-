@@ -68,3 +68,19 @@ $$
 		$y_{1},y_{2}为(1)的解，则它们的差为(2)的解$
 性质4：(1)的特解+(2)的通解=(1)的通解
 性质5：$y'+py=q 与y(x_{0})=y_{0}形成的方程组的解存在且唯一$
+
+## 积分因子法
+我们都知道若方程：$P(x,y)dx+Q(x,y)dy=0$是恰当方程时的解法
+而对于可分类变量的方程以及一阶线性方程时的解法（实际上是转化成了恰当方程）
+现在思考，对于一般的方程$P(x,y)dx+Q(x,y)dy=0$，是否存在一个$\mu(x,y)$
+使得$\mu(x,y)P(x,y)dx+\mu(x,y)Q(x,y)dy=0$是一个恰当方程
+考虑恰当方程的充要条件，我们有：
+	$\frac{ \partial (\mu P) }{ \partial y }=\frac{ \partial (\mu Q) }{ \partial x }$
+	即$P \frac{ \partial \mu }{ \partial y }-Q\frac{ \partial \mu }{ \partial x }=\left( \frac{ \partial Q }{ \partial x }-\frac{ \partial P }{ \partial y } \right)\mu$
+	然而这个偏微分方程不是很好解（事实上这个偏微分方程的求解要用到上面的常微分方程）
+	我们不妨考虑简单的情况，假设$\mu(x,y)=\phi(x)$(即$\mu$只与$x$相关)
+	这样我们便有：
+	$Q \frac{d\phi}{dx}=\left( \frac{ \partial P }{ \partial y } -\frac{ \partial Q }{ \partial x } \right)\phi$
+	即$\frac{1}{\phi} \frac{d\phi}{dx}= \frac{1}{Q}\left( \frac{ \partial P }{ \partial y } -\frac{ \partial Q }{ \partial x }\right)$
+	由于左端只与x有关，故右端也只与$x$有关,记为$G(x)$
+	解出$\phi(x)=e^{ \int G(x)dx },此为所求积分因子$
