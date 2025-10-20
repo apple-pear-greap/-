@@ -77,10 +77,17 @@ $$
 考虑恰当方程的充要条件，我们有：
 	$\frac{ \partial (\mu P) }{ \partial y }=\frac{ \partial (\mu Q) }{ \partial x }$
 	即$P \frac{ \partial \mu }{ \partial y }-Q\frac{ \partial \mu }{ \partial x }=\left( \frac{ \partial Q }{ \partial x }-\frac{ \partial P }{ \partial y } \right)\mu$
-	然而这个偏微分方程不是很好解（事实上这个偏微分方程的求解要用到上面的常微分方程）
+然而这个偏微分方程不是很好解（事实上这个偏微分方程的求解要用到上面的常微分方程）
 	我们不妨考虑简单的情况，假设$\mu(x,y)=\phi(x)$(即$\mu$只与$x$相关)
 	这样我们便有：
 	$Q \frac{d\phi}{dx}=\left( \frac{ \partial P }{ \partial y } -\frac{ \partial Q }{ \partial x } \right)\phi$
 	即$\frac{1}{\phi} \frac{d\phi}{dx}= \frac{1}{Q}\left( \frac{ \partial P }{ \partial y } -\frac{ \partial Q }{ \partial x }\right)$
 	由于左端只与x有关，故右端也只与$x$有关,记为$G(x)$
 	解出$\phi(x)=e^{ \int G(x)dx },此为所求积分因子$
+
+
+# 常系数线性微分方程组
+形式：$\vec{y}'(x)=A \vec{y}(x)+\vec{f}(x)$
+其中$x \in \mathbf{R},\,A \in M^{n*n}(\mathbf{R}),\vec{y}:I\to \mathbf{R^{n}},\vec{f}:I \to \mathbf{\mathrm{R^{n}}}$
+现在我们来探索这个微分方程组的解
+当$n=1时，方程组化为： \frac{dy}{dx}=ay,其解为y = Ce^{ ax },那么当n>1时，结果又如何呢?$
