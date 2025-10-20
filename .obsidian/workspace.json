@@ -1,24 +1,22 @@
 {
   "main": {
-    "id": "71796719cf930097",
+    "id": "ca9c88aa25e7f023",
     "type": "split",
     "children": [
       {
-        "id": "19a19152a05936b7",
+        "id": "49ddc50914a3c46f",
         "type": "tabs",
         "children": [
           {
-            "id": "1aa53caef789d7dd",
+            "id": "33749a40e32b508e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "数学相关/概率论笔记/概率论课堂笔记.md",
-                "mode": "source",
-                "source": false
+                "file": "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf"
               },
-              "icon": "lucide-file",
-              "title": "概率论课堂笔记"
+              "icon": "lucide-file-text",
+              "title": "常微分方程教程 第三版 (丁同仁，李承治) (Z-Library)"
             }
           }
         ]
@@ -27,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "18dbaf517e21753d",
+    "id": "31fc29f8713c4b2f",
     "type": "split",
     "children": [
       {
-        "id": "814665c54723d02f",
+        "id": "299f7a213c433355",
         "type": "tabs",
         "children": [
           {
-            "id": "92ce635eda13b0ae",
+            "id": "eb4828dc5a7baaac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +46,7 @@
             }
           },
           {
-            "id": "9735f6b43c2096e8",
+            "id": "370b93348dfa5ae0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +63,7 @@
             }
           },
           {
-            "id": "6ee102bff85d3c4f",
+            "id": "d6bcd1fef12a3742",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +79,19 @@
     "width": 300
   },
   "right": {
-    "id": "052b0231f9de4f53",
+    "id": "bec7d37577cea542",
     "type": "split",
     "children": [
       {
-        "id": "571498bfc6b0121f",
+        "id": "78d090e6505574b2",
         "type": "tabs",
         "children": [
           {
-            "id": "b38c96ec56d3651d",
+            "id": "d27a22db6cc5da2f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学相关/概率论笔记/概率论课堂笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +101,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "概率论课堂笔记 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "8ffac0c1b325c78a",
+            "id": "590c4ced3f03de05",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学相关/概率论笔记/概率论课堂笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "概率论课堂笔记 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "14d93496d4b8dd41",
+            "id": "5d3ae61f22ad7004",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,26 +133,36 @@
             }
           },
           {
-            "id": "50541b2fe8851c42",
+            "id": "094b9ddda4ab2b22",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学相关/概率论笔记/概率论课堂笔记.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "概率论课堂笔记 的大纲"
+              "title": "conflict-files-obsidian-git 的大纲"
+            }
+          },
+          {
+            "id": "901cd8e29861fff2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,22 +172,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1aa53caef789d7dd",
+  "active": "eb4828dc5a7baaac",
   "lastOpenFiles": [
-    "E-books/Static/~$专业核心课教材——统计学：以R为分析工具（加水印加密）(4) (2)(1).xlsx",
-    "E-books/Static/专业核心课教材——统计学：以R为分析工具（加水印加密）(4) (2)(1).xlsx",
-    "统计学作业.md",
-    "数学相关/概率论笔记/概率论课堂笔记.md",
-    "数学相关/常微分方程笔记/ODE学习笔记.md",
-    "数学相关/数学分析笔记/全微分不变性.md",
-    "数学相关/数学分析笔记/方向导数和梯度.md",
-    "数学相关/数学分析笔记/数学分析笔记-目录.md",
-    "数学相关/实分析笔记/测度.md",
-    "数学相关/数值分析笔记/数值分析笔记.md",
-    "数学相关/数值分析笔记/数值分析 (韩旭里) (Z-Library).pdf",
-    "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf"
+    "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf",
+    "conflict-files-obsidian-git.md"
   ]
 }
