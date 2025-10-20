@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33749a40e32b508e",
+            "id": "e84038f48a45e5fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学相关/概率论笔记/概率论课堂笔记.md",
+                "file": "数学相关/常微分方程笔记/ODE学习笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "概率论课堂笔记"
+              "title": "ODE学习笔记"
             }
           }
         ]
@@ -28,15 +28,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5cf641da618e70e3",
+            "id": "095e409a528764be",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "数学相关/概率论笔记/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf"
+                "file": "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "概率论基础 第三版 (李贤平) (Z-Library) (1)"
+              "title": "常微分方程教程 第三版 (丁同仁，李承治) (Z-Library)"
             }
           }
         ]
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,15 +198,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33749a40e32b508e",
+  "active": "e84038f48a45e5fc",
   "lastOpenFiles": [
+    "数学相关/常微分方程笔记/ODE习题.md",
+    "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf",
+    "数学相关/常微分方程笔记/ODE学习笔记.md",
+    "数学相关/概率论笔记/概率论课堂笔记.md",
     "数学相关/实分析笔记/测度.md",
     "数学相关/实分析笔记/实分析笔记（可能会咕咕）.md",
-    "数学相关/概率论笔记/概率论课堂笔记.md",
-    "数学相关/常微分方程笔记/ODE习题.md",
-    "数学相关/常微分方程笔记/ODE学习笔记.md",
     "数学相关/概率论笔记/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf",
-    "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf",
     "conflict-files-obsidian-git.md"
   ]
 }
