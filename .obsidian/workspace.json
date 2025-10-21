@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "095e409a528764be",
+            "id": "9067fef72a04e341",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf"
+                "file": "数学相关/数学分析笔记/数学分析 (下册) (戴斌祥 总主编；郭瑞芝、刘心歌、许友军 主编) (Z-Library).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "常微分方程教程 第三版 (丁同仁，李承治) (Z-Library)"
+              "title": "数学分析 (下册) (戴斌祥 总主编；郭瑞芝、刘心歌、许友军 主编) (Z-Library)"
             }
           },
           {
-            "id": "9067fef72a04e341",
+            "id": "d3a30c070d2a7f1a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bec7d37577cea542",
@@ -174,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +187,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9067fef72a04e341",
+  "active": "d3a30c070d2a7f1a",
   "lastOpenFiles": [
+    "数学相关/数学分析笔记/数学分析 (下册) (戴斌祥 总主编；郭瑞芝、刘心歌、许友军 主编) (Z-Library).pdf",
     "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf",
     "数学相关/常微分方程笔记/ODE学习笔记.md",
     "数学相关/常微分方程笔记/ODE习题.md",
