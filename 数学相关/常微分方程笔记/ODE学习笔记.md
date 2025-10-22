@@ -88,6 +88,99 @@ $$
 
 # 常系数线性微分方程组
 形式：$\vec{y}'(x)=A \vec{y}(x)+\vec{f}(x)$
-其中$x \in \mathbf{R},\,A \in M^{n*n}(\mathbf{R}),\vec{y}:I\to \mathbf{R^{n}},\vec{f}:I \to \mathbf{\mathrm{R^{n}}}$
+其中$x \in \mathbf{R},\,A \in M^{n \times n}(\mathbf{R}),\vec{y}:I\to \mathbf{R^{n}},\vec{f}:I \to \mathbf{\mathrm{R^{n}}}$
 现在我们来探索这个微分方程组的解
 当$n=1时，方程组化为： \frac{dy}{dx}=ay,其解为y = Ce^{ ax },那么当n>1时，结果又如何呢?$
+我们引入记号$e^{ \mathbf{A} }$,并希望$\mathbf{y'}=\mathbf{A}\mathbf{y}$的解恰好为$\mathbf{y}=Ce^{ x\mathbf{A} }$
+
+所以，什么是$e^{ \mathbf{A} }$？
+### 矩阵指数函数的定义和性质
+参照$e^{ x }$的定义，我们想到可以使用级数$\sum ^{\infty}_{k=0} \frac{\mathbf{A}^{k}}{k!}来定义$
+其中，$\mathbf{A}^{0}=\mathbf{I}$
+我们先来检验一下该定义是否为良好的
+这里使用$||\mathbf{A}||$来表示矩阵$\mathbf{A}$的无穷范数
+首先根据矩阵范数的性质，我们会有$||\mathbf{A}\mathbf{B}||\leq||\mathbf{A}||\cdot||\mathbf{B}||$
+即$||\mathbf{A}^{k}||\leq||\mathbf{A}||^{k}$
+再根据三角不等式，我们有：
+$||e^{ \mathbf{A} }||=||\sum ^{\infty}_{k=0} \frac{\mathbf{A}^{k}}{k!}||\leq\sum ^{\infty}_{k=0} \frac{||\mathbf{A}||^{k}}{k!}\leq e^{ \mathbf{||A||} }<\infty$
+这表明该定义是良好的
+由于要计算微分方程，我们还希望函数$\Phi(x)=e^{ x\mathbf{A} }具有良好的微分性质$
+由于函数$\Phi(x)事实上是个幂级数矩阵，而每一项又绝对收敛，故它也是一致收敛的$
+从而我们可以交换无穷求和和求导的顺序，得到：
+$\Phi'(x)=\mathbf{A}\Phi(x)$
+另一方面，参考$e^{ x }$的一些性质的证明，我们可以得到：
+- $e^{ \mathbf{A}+\mathbf{B} }=e^{ \mathbf{A} }e^{ \mathbf{B} },若\mathbf{A}和\mathbf{B}可交换$
+- $(e^{ \mathbf{A} })^{-1}=e^{ -\mathbf{A} }$
+- $e^{ \mathbf{PAP^{-1}} }=\mathbf{P}e^{ \mathbf{A} }\mathbf{P}^{-1}$
+最后一个与$e^{ x }$性质无关，而是使用了矩阵的快速幂算法（$即(\mathbf{PAP^{-1}})^{n}=\mathbf{PA^{n}P^{-1}}$)
+
+### 计算矩阵指数函数
+不难证明：
+若$\mathbf{A}=diag\{a_{1},a_{2},\dots a_{n}\},那么e^{ \mathbf{A} }=diag\{e^{ a_{1} },e^{ a_{2} },\dots e^{ a_{n} }\}$
+根据前面的性质：$若\mathbf{A}可对角化，则e^{ \mathbf{A} }也是容易计算的$
+
+一个例子： 
+$$
+\begin{matrix}
+已知\mathbf{A}=\begin{pmatrix}0 & \beta \\
+-\beta & 0
+\end{pmatrix},求解e^{ x\mathbf{A} }: \\
+事实上x\mathbf{A}=\begin{pmatrix}
+1 & 1 \\
+i & -i
+\end{pmatrix}\begin{pmatrix}
+i\beta x & 0\\
+0 & -i\beta x
+\end{pmatrix}\begin{pmatrix}
+\frac{1}{2} & - \frac{i}{2} \\
+\frac{1}{2} &  \frac{i}{2}
+\end{pmatrix} \\
+从而e^{ x\mathbf{A} }=\begin{pmatrix}
+1 & 1 \\
+i & -i
+\end{pmatrix}\begin{pmatrix}
+e^{ i\beta x } & 0\\
+0 & e^{ -i\beta x }
+\end{pmatrix}\begin{pmatrix}
+\frac{1}{2} & - \frac{i}{2} \\
+\frac{1}{2} &  \frac{i}{2}
+\end{pmatrix} =\begin{pmatrix}
+\cos\beta x & \sin\beta x \\
+-\sin\beta x & \cos\beta x
+\end{pmatrix}\\考虑常系数微分方程组：\begin{pmatrix}
+y_{1}'(x) \\
+y_{2}'(x)
+\end{pmatrix}=\mathbf{A}\begin{pmatrix}
+y_{1}(x) \\
+y_{2}(x)
+\end{pmatrix} \\
+其解恰好为\begin{pmatrix}
+y_{1}(x) \\
+y_{2}(x)
+\end{pmatrix}=e^{ xA }\begin{pmatrix}
+C_{1} \\
+C_{2}
+\end{pmatrix}(事实上这个方程等价于两个二阶常系数线性微分方程) 
+\end{matrix}
+
+
+$$
+
+若$\mathbf{A}不能对角化，由高等代数知识，我们知道\mathbf{A}$在复数域内必定能化为若尔当标准型 
+
+即$\mathbf{A}=diag\{J(\lambda_{1},k_{1}),J(\lambda_{2},k_{2}),\dots J(\lambda_{i},k_{i})\}$
+
+其中 
+$$J(\lambda,k)=\begin{pmatrix}\lambda & 1 &  &  \\
+  & \lambda & \ddots & \, \\
+  &   &  \ddots & 1 \\
+  &  &  & \lambda
+
+\end{pmatrix}=diag\{\lambda,\lambda,\dots\lambda\}+J(0,k)
+$$
+而根据若尔当矩阵的性质，我们有:$J(0,k)^{k-1}=\mathbf{0}$
+这表明$diag\{J(0,k_{1}),J(0,k_{2}),\dots J(0,k_{i})\}是个幂零矩阵$
+即$e^{ x\mathbf{A} }=e^{ x(\mathbf{P(D+Z)P^{-1}}) }=\mathbf{P}e^{ x\mathbf{D} }e^{ \mathbf{Z} }\mathbf{P}^{-1}$
+其中$\mathbf{D}是对角阵，而\mathbf{Z}是幂零矩阵，它们的指数函数都较为容易计算$
+
+[^1]:关于若尔当标准型的存在和求解，可以使用$\lambda$矩阵的初等因子来证明和计算 
