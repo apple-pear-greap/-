@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84ba78ece18ae4b7",
+            "id": "35bf9890e0dc26fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学相关/数值分析笔记/数值分析笔记.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "数值分析笔记"
+              "title": "新标签页"
             }
           }
         ]
@@ -28,15 +24,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06c3d2afb1836b60",
+            "id": "9130e869de4e8dc5",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "数学相关/数值分析笔记/数值分析 (韩旭里) (Z-Library).pdf"
+                "file": "数学相关/数学分析笔记/数学分析 (下册) (戴斌祥 总主编；郭瑞芝、刘心歌、许友军 主编) (Z-Library).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "数值分析 (韩旭里) (Z-Library)"
+              "title": "数学分析 (下册) (戴斌祥 总主编；郭瑞芝、刘心歌、许友军 主编) (Z-Library)"
             }
           }
         ]
@@ -96,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bec7d37577cea542",
@@ -197,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84ba78ece18ae4b7",
+  "active": "9130e869de4e8dc5",
   "lastOpenFiles": [
-    "数学相关/概率论笔记/概率论课堂笔记.md",
     "数学相关/数值分析笔记/数值分析笔记.md",
+    "数学相关/概率论笔记/概率论课堂笔记.md",
     "数学相关/数值分析笔记/数值分析 (韩旭里) (Z-Library).pdf",
     "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf",
     "数学相关/常微分方程笔记/ODE学习笔记.md",
