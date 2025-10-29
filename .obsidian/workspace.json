@@ -8,31 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "117105a1cbdf569f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数学相关/全国大学生数学竞赛解析教程（数学类）数学分析.上册 (佘志坤 主编) (Z-Library).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "全国大学生数学竞赛解析教程（数学类）数学分析.上册 (佘志坤 主编) (Z-Library)"
-            }
-          },
-          {
             "id": "71777345ccec25c9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "常微分方程教程 第三版 (丁同仁，李承治) (Z-Library)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,11 +167,11 @@
   },
   "active": "71777345ccec25c9",
   "lastOpenFiles": [
+    "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf",
     "数学相关/全国大学生数学竞赛解析教程（数学类）数学分析.上册 (佘志坤 主编) (Z-Library).pdf",
     "数学相关/数学分析笔记/数学分析 (下册) (戴斌祥 总主编；郭瑞芝、刘心歌、许友军 主编) (Z-Library).pdf",
     "E-books/Others/微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library).pdf",
     "数学相关/常微分方程笔记/ODE学习笔记.md",
-    "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf",
     "数学相关/fcitx5-nord/README.md",
     "数学相关/概率论笔记/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf",
     "数学相关/概率论笔记/概率论课堂笔记.md",
