@@ -183,4 +183,17 @@ $$
 即$e^{ x\mathbf{A} }=e^{ x(\mathbf{P(D+Z)P^{-1}}) }=\mathbf{P}e^{ x\mathbf{D} }e^{ \mathbf{Z} }\mathbf{P}^{-1}$
 其中$\mathbf{D}是对角阵，而\mathbf{Z}是幂零矩阵，它们的指数函数都较为容易计算$
 
+特别的，假如$A$的代数重数等于几何重数，即$A$有着n个线性无关的特征向量$\xi_{1},\xi_{2},\dots \xi_{n}$
+那我们便有:$$
+e^{ x\mathbf{A} }\mathbf{P} = \begin{pmatrix}
+\xi_{1},\xi_{2},\dots,\xi_{n}
+\end{pmatrix}\begin{pmatrix}
+e^{ \lambda_{1} } &  &  &  &  \\
+ & e^{ \lambda_{2} } &  &  \\
+ &  & \ddots &  \\
+ &  &  & e^{ \lambda _{n}} 
+\end{pmatrix}
+$$
+事实上这便是我们所要求得基解矩阵
+假定有复特征值，根据虚根成对原理，它的共轭一定也是特征值，这样我们就能用欧拉公式将其改写为实基解矩阵事实上是取了复向量$\xi_{1}e^{ \lambda_{1} }$的实部和虚部
 [^1]:关于若尔当标准型的存在和求解，可以使用$\lambda$矩阵的初等因子来证明和计算 

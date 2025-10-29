@@ -4,42 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cd7b4220d3c3dc58",
+        "id": "92173c62dd17985d",
         "type": "tabs",
         "children": [
           {
-            "id": "2b67f8e0399fd896",
+            "id": "117105a1cbdf569f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "数学相关/概率论笔记/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf"
+                "file": "数学相关/全国大学生数学竞赛解析教程（数学类）数学分析.上册 (佘志坤 主编) (Z-Library).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "概率论基础 第三版 (李贤平) (Z-Library) (1)"
+              "title": "全国大学生数学竞赛解析教程（数学类）数学分析.上册 (佘志坤 主编) (Z-Library)"
             }
-          }
-        ]
-      },
-      {
-        "id": "a52a014c910ee655",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "2f5060ab09e5973b",
+            "id": "71777345ccec25c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "数学相关/概率论笔记/概率论课堂笔记.md",
-                "mode": "source",
-                "source": false
+                "file": "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf"
               },
-              "icon": "lucide-file",
-              "title": "概率论课堂笔记"
+              "icon": "lucide-file-text",
+              "title": "常微分方程教程 第三版 (丁同仁，李承治) (Z-Library)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,31 +152,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "数学相关/全国大学生数学竞赛解析教程（数学类）数学分析.上册 (佘志坤 主编) (Z-Library).pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
-            }
-          },
-          {
-            "id": "901cd8e29861fff2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "全国大学生数学竞赛解析教程（数学类）数学分析.上册 (佘志坤 主编) (Z-Library) 的大纲"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,23 +177,32 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false
+      "bases:创建新数据库": false
     }
   },
-  "active": "2f5060ab09e5973b",
+  "active": "71777345ccec25c9",
   "lastOpenFiles": [
-    "数学相关/概率论笔记/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf",
+    "数学相关/全国大学生数学竞赛解析教程（数学类）数学分析.上册 (佘志坤 主编) (Z-Library).pdf",
     "数学相关/数学分析笔记/数学分析 (下册) (戴斌祥 总主编；郭瑞芝、刘心歌、许友军 主编) (Z-Library).pdf",
-    "E-books/Others/《英国文学选读》.pdf",
     "E-books/Others/微观经济学原理 第3版 (（中国）刘文忻，吴汉洪，尹伯成，高鸿业, 高鸿业 名誉主编，本书编写组 编, 高鸿业名誉主编 etc.) (Z-Library).pdf",
+    "数学相关/常微分方程笔记/ODE学习笔记.md",
+    "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf",
+    "数学相关/fcitx5-nord/README.md",
+    "数学相关/概率论笔记/概率论基础 第三版 (李贤平) (Z-Library) (1).pdf",
+    "数学相关/概率论笔记/概率论课堂笔记.md",
+    "数学相关/fcitx5-nord/Nord-Light/theme.conf",
+    "数学相关/fcitx5-nord/Nord-Light/radio.png",
+    "数学相关/fcitx5-nord/Nord-Light/arrow.png",
+    "数学相关/fcitx5-nord/Nord-Light",
+    "数学相关/fcitx5-nord/Nord-Dark/theme.conf",
+    "数学相关/fcitx5-nord/Nord-Dark/radio.png",
+    "数学相关/fcitx5-nord/Nord-Dark/arrow.png",
+    "数学相关/fcitx5-nord/Nord-Dark",
+    "数学相关/fcitx5-nord/LICENSE",
+    "数学相关/fcitx5-nord",
     "隐函数定理.md",
     "未命名.md",
     "数学相关/数值分析笔记/数值分析笔记.md",
-    "数学相关/概率论笔记/概率论课堂笔记.md",
-    "数学相关/数值分析笔记/数值分析 (韩旭里) (Z-Library).pdf",
-    "数学相关/常微分方程笔记/常微分方程教程 第三版 (丁同仁，李承治) (Z-Library).pdf",
-    "数学相关/常微分方程笔记/ODE学习笔记.md",
     "数学相关/常微分方程笔记/ODE习题.md",
     "数学相关/实分析笔记/测度.md",
     "数学相关/实分析笔记/实分析笔记（可能会咕咕）.md",
